@@ -1,4 +1,4 @@
 Team-DUT-hackathon
 ==================
 
-Repository for everything that the DUT hackathon tema works on
+Repository for everything that I am working/have worked on
